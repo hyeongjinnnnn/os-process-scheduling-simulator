@@ -97,8 +97,16 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+*.cd
+*.vcxproj
+*.filters
+*.rc
 pch.cpp
 pch.h
+framework.h
+targetver.h
+MFCApplication1.cpp
+MFCApplication1.h
 
 # Chutzpah Test files
 _Chutzpah*
