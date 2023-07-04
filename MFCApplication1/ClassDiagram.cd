@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GuiProcess">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgAAAAAAAAAAAAAABAEAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>guiProcess.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAggAgAAAAAAAAAgQAAAABABAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>hardware.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Processor">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIBEAQAAAAAAAAABEgAA=</HashCode>
+      <FileName>hardware.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCApplication1App">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQA=</HashCode>
+      <FileName>MFCApplication1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCApplication1Dlg">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CMFCApplication1Dlg::__unnamed_enum_0006_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MFCApplication1Dlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>GBCQBAkKGAgABMgIGBIABQBBAIAAECQgEABAAIQYAAE=</HashCode>
+      <FileName>MFCApplication1Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCB">
+    <Position X="13.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kQAAAAAAAAAAIAAAAAAAAAAAAAAAAAAEAAAAAAAAFAY=</HashCode>
+      <FileName>software.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Que">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAACIAgAAAAABAAAIACAAAMQGAIAAAAAAAAAAAAhA=</HashCode>
+      <FileName>software.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduler">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAgACAAAAAAAAAAAAAAEAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>software.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FCFS">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABACAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>software.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RR">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAAAAAAAAAAIwAAAAAQAAAAAABBAAAA=</HashCode>
+      <FileName>software.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRTN">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAAAAAAAAAAIgAAgAAAAAAAAABBAgAA=</HashCode>
+      <FileName>software.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kernel">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAgAAAQAAAAAACQIAAAAAQBAABAIYIQAhDgAAg=</HashCode>
+      <FileName>software.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
